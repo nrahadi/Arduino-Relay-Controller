@@ -6,3 +6,5 @@ sensors as an alternative to manual activation using push buttons.
 
 The project was made in TinkerCAD in this following link:
 https://www.tinkercad.com/things/6d2HIUcoywb
+
+![Arduino Relay Controller](https://github.com/nrahadi/Arduino-Relay-Controller/assets/144195641/d8b81078-1b02-4115-a4e5-37680f668cc9)
